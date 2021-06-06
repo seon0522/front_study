@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+
+    <title>스파르타코딩클럽 | 부트스트랩 연습하기</title>
+
+    <style>
+        .fairy {
+            width: 600px;
+            margin: auto;
+        }
+
+        .item-img{
+            text-align: center;
+        }
+
+        .item-title{
+            margin: 30px auto;
+        }
+
+        .form-group {
+            margin: 10px auto;
+        }
+
+        .price {
+            font-size: 20px;
+        }
+
+        .btn {
+            width: 50%;
+            margin: 0px auto;
+            display: block;
+        }
+    </style>
+
+    <script>
+        function order() {
+            alert("주문이 완료되었습니다.");
+        }
+    </script>
+
+</head>
+
+<body>
+<div class="fairy">
+    <div class="item-img">
+        <img src="http://image.yes24.com/goods/3682373"
+             alt="fairytale">
+    </div>
+    <div class="item-title">
+        <h1>얼굴이 빨개져도 괜찮아! <span class="price">가격: 5000원 /개</span></h1>
+        <p>"『얼굴이 빨개져도 괜찮아!』는 부끄럼이 많아 항상 얼굴이 빨개지는 아이 미리암이 자신의 틀을 깨고 나와 스스로 부끄럼을 극복하는 과정을 따뜻하게 그려 낸 책입니다. 부끄러움을 극복하기 위해서는 주위 사람들의 배려와 격려, 따뜻한 말들이 많은 도움이 되겠지만, 가장 중요한 것은 자신을 틀을 깨려는 본인의 의지와 노력이라는 점을 이 책은 유머 있고 따뜻하게 말해 줍니다.
+
+미리암은 부끄러움을 아주 많이 타서 누군가 자신의 이름을 부르기만 해도 얼굴이 토마토처럼 빨개져요. 그래서 친구들은 이름 대신 못난이 토마토라고 부르며 미리암을 놀려요. 드디어 다가온 낭송 시간! 모두 앞에서 시를 외워야 하는 상황에서 미리암을 어쩔 줄 몰라하고, 친구들은 미리암을 놀리기 시작해요. 그 때, 이 상황을 지켜본 선생님이 아이들을 크게 꾸짖어요. 그 바람에 아이들 얼굴이 모두 토마토처럼 빨개졌어요. 그 모습을 본 미리암은 자신도 모르게 시를 술술 외우기 시작했고, 그때부터 친구들은 미리암을 ‘노래하는 새 미리암’이라고 부르며 사이좋게 지내게 되었답니다.</p>
+    </div>
+    <div class="item-order">
+        <h1>주문하기</h1>
+        <div class="form-group">
+            <div><span>주문자 이름</span></div>
+            <input type="email" class="form-control" id="exampleFormControlInput1">
+        </div>
+        <div class="form-group">
+            <span>수량</span>
+            <select class="form-control" id="exampleFormControlSelect1">
+                <option selected>수량을 선택하세요</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <span>주소</span>
+            <input type="text" class="form-control" id="inputAddress">
+        </div>
+        <div class="form-group">
+            <span>전화번호</span>
+            <input type="text" class="form-control" id="inputphone">
+        </div>
+
+    <button onclick="order()" class="btn btn-primary" type="button" class="btn">주문</button>
+</div>
+
+</body>
+
+</html>
