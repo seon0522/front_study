@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9b1739e-51fb-484b-9f9c-2d2e232b88dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../projects/bookreview/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/bookreview/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 homework.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects/prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/prac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects/prac/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/prac/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhonparc/dbprac.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhonparc/dbprac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhonparc/dbquiz" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhonparc/dbquiz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhonparc/genie.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhonparc/genie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhonparc/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhonparc/hello.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="428f5072-1f85-4983-8a69-50ea126a09ed" />
+  <component name="ProjectId" id="1uRG7AJPmJPxdQJqYvS6xzfuz02" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9b1739e-51fb-484b-9f9c-2d2e232b88dc" name="Default Changelist" comment="" />
+      <created>1624620817387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624620817387</updated>
+      <workItem from="1624620819465" duration="194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1009" y="230" key="FileChooserDialogImpl" timestamp="1624621012211">
+      <screen x="0" y="0" width="1635" height="1067" />
+    </state>
+    <state x="1009" y="230" key="FileChooserDialogImpl/0.0.1635.1067@0.0.1635.1067" timestamp="1624621012211" />
+  </component>
+</project>
